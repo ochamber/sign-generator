@@ -264,7 +264,7 @@ href='https://www.change.org/p/loi-travail-non-merci-myriamelkhomri-loitravailno
 travail : non, merci !'</a>? Et là... Bonne chance pour les retrouver
 parmis les signatures valides...<br>
 <br>
-Le code est à la disposition de qui le souhaite:<br>
+Le <a href='https://github.com/ochamber/sign-generator'>code</a> est à la disposition de qui le souhaite:<br>
 &nbsp;- change.org pour améliorer ses robots ;-)<br>
 &nbsp;- la presse pour justifier les doutes émis sur légitimité de
 cette pétition, désormais la plus 'signée' en France.<br>
